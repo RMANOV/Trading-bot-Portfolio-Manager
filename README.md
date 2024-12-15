@@ -1,5 +1,7 @@
 🚀 Innovative Algorithmic Trading System: Advanced Portfolio Management with Dynamic Risk Assessment
-I'm excited to share my latest project - a sophisticated algorithmic trading system built with Python, leveraging the Interactive Brokers API. This system represents a significant advancement in automated trading strategies, combining cutting-edge technical analysis with dynamic risk management.
+I'm excited to share my latest project - a sophisticated algorithmic trading system built with Python, leveraging the Interactive Brokers API. 
+This system represents a significant advancement in automated trading strategies, combining cutting-edge technical analysis with dynamic risk management.
+
 Key Technical Features:
 ✦ Asynchronous Architecture: Implemented using asyncio for efficient concurrent execution of multiple trading operations
 ✦ Dynamic Risk Management: Advanced algorithms for position sizing and risk assessment using volatility-based calculations
@@ -31,6 +33,8 @@ Memory-efficient data handling with NumPy arrays
 Cached computations for frequently accessed data
 Comprehensive error handling and logging system
 
-The system demonstrates how modern software engineering principles can be applied to financial markets, creating a robust, adaptive trading solution. It's designed to handle market volatility while maintaining strict risk management parameters, showcasing the intersection of financial expertise and technical innovation.
+The system demonstrates how modern software engineering principles can be applied to financial markets, creating a robust, adaptive trading solution. 
+It's designed to handle market volatility while maintaining strict risk management parameters, showcasing the intersection of financial expertise and technical innovation.
 This project represents a significant step forward in automated trading systems, combining theoretical knowledge with practical implementation in a production environment.
+
 #AlgorithmicTrading #FinTech #Python #TechnicalAnalysis #QuantitativeFinance #SoftwareEngineering #Innovation
