@@ -1,4 +1,4 @@
-#Trading-bot-Portfolio-Manager
+Trading-bot-Portfolio-Manager
 
 🚀 Innovative Algorithmic Trading System: Advanced Portfolio Management with Dynamic Risk Assessment
 I'm excited to share my latest project - a sophisticated algorithmic trading system built with Python, leveraging the Interactive Brokers API. 
